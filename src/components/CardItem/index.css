@@ -1,0 +1,44 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+}
+
+/* Write CSS code here. */
+.Card-item-styles {
+  height: 75vh;
+  width: 75vh;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 15px;
+}
+.head1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 18px;
+  color: black;
+  margin: 5px;
+}
+.para1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 15px;
+  color: #64748b;
+  margin: 5px;
+}
+.img {
+  height: 50px;
+  width: 50px;
+}
+.imgCon {
+  display: flex;
+  justify-content: flex-end;
+}
